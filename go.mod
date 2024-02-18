@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/cfssl_trust
 go 1.20
 
 require (
-	github.com/getsentry/raven-go v0.0.0-20170310193735-b68337dbf03e
+	github.com/getsentry/raven-go v0.2.0
 	github.com/khulnasoft-lab/cfssl v0.0.0-20180323000720-5d63dbd981b5
 	github.com/mattes/migrate v1.3.1
 	github.com/mattn/go-sqlite3 v1.14.15
