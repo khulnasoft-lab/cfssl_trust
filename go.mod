@@ -6,7 +6,7 @@ require (
 	github.com/getsentry/raven-go v0.0.0-20170310193735-b68337dbf03e
 	github.com/khulnasoft-lab/cfssl v0.0.0-20180323000720-5d63dbd981b5
 	github.com/mattes/migrate v1.3.1
-	github.com/mattn/go-sqlite3 v1.14.15
+	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/viper v0.0.0-20170417080815-0967fc9aceab
