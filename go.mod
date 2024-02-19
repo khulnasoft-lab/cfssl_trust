@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/viper v0.0.0-20170417080815-0967fc9aceab
 	golang.org/x/lint 6edffad5e616
-	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.2.0
+	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0
 )
 
 require (
