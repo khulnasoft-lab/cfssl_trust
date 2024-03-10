@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/getsentry/raven-go v0.0.0-20170310193735-b68337dbf03e
-	github.com/khulnasoft-lab/cfssl v0.0.0-20180323000720-5d63dbd981b5
+	github.com/khulnasoft-lab/cfssl 32576cdce02f
 	github.com/mattes/migrate v1.3.1
 	github.com/mattn/go-sqlite3 v1.14.15
 	github.com/prometheus/client_golang v1.14.0
